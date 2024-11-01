@@ -1,3 +1,5 @@
+//1. Write the program to greet a person given their first and last name 
+
 let firstname;
 let lastname;
 
